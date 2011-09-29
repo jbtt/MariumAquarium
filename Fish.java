@@ -10,7 +10,7 @@ enum Direction
 
 public class Fish 
 {
-	private static final int MAX_VELOCITY = 6;
+	private static final int MAX_VELOCITY = 9001;
 	private Image image;
 	private Point location;
 	private Point velocity;
